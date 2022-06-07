@@ -284,7 +284,7 @@ class employeeClass:
             cursor="hand2",
         ).place(x=860, y=305, width=110, height=28)
 
-        # employ details result
+        # employ details
         emp_frame = Frame(self.root, bd=3, relief=RIDGE)
         emp_frame.place(x=0, y=350, relwidth=1, height=150)
 
